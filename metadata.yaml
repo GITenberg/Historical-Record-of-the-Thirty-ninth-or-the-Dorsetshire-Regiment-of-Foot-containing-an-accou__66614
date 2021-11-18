@@ -1,0 +1,29 @@
+_repo: Historical-Record-of-the-Thirty-ninth-or-the-Dorsetshire-Regiment-of-Foot-containing-an-accou__66614
+_version: 0.0.1
+alternative_title: Historical Record of the 39th Foot
+creator:
+  author:
+    agent_name: Cannon, Richard
+    birthdate: 1779
+    deathdate: 1865
+    gutenberg_agent_id: '45414'
+    url: http://www.gutenberg.org/2009/agents/45414
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Cannon
+description: ''
+gutenberg_issued: '2021-10-26'
+identifiers:
+  gutenberg: '66614'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Historical records of the British Army
+subjects:
+- !lcc 'UA'
+- !lcsh 'Great Britain. Army. Regiment of Foot, 39th (Dorsetshire) -- History'
+- !lcsh 'Great Britain. Army. Dorset Regiment -- History'
+- GITenberg
+title: 'Historical Record of the Thirty-ninth, or the Dorsetshire Regiment of Foot:
+  containing an account of the formation of the regiment in 1702, and of its subsequent
+  services to 1853.'
+url: http://www.gutenberg.org/ebooks/66614
