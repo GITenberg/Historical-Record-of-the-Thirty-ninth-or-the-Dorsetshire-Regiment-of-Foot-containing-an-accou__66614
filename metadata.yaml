@@ -1,6 +1,9 @@
 _repo: Historical-Record-of-the-Thirty-ninth-or-the-Dorsetshire-Regiment-of-Foot-containing-an-accou__66614
 _version: 0.1.0
 alternative_title: Historical Record of the 39th Foot
+covers:
+- cover_type: archival
+  image_path: 66614-h/images/cover.jpg
 creator:
   author:
     agent_name: Cannon, Richard
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45414
     wikipedia: https://en.wikipedia.org/wiki/Richard_Cannon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66614#Historical-Record-of-the-Thirty-ninth-or-the-Dorsetshire-Regiment-of-Foot-containing-an-accou_
 gutenberg_issued: '2021-10-26'
 identifiers:
   gutenberg: '66614'
